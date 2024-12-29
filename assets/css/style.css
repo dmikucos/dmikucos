@@ -317,7 +317,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/cosplays/photoshoot_pics/11. Chara 7.jpg") top right;
+  background: url("../img/cosplays/photoshoot_pics/6. Chara 2.jpg") top right;
   background-size: cover;
   position: relative;
 }
@@ -602,7 +602,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/cosplays/photoshoot_pics/10.\ Godot\ 3.JPG") center center no-repeat;
+  background: url("../img/cosplays/photoshoot_pics/5.\ Godot\ 2.JPG") center center no-repeat;
   background-size: cover;
   min-height: 750px;
 }
